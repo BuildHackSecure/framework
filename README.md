@@ -9,3 +9,4 @@ It Includes the following features:
 - Model & Controller Autoloading
 - Routing with pattern matching and HTTP method separation
 - PDO wrapper for handing read & write connections for MySQL replication which aides in scaling
+- Example template is ready to go with bootstrap and jQuery
